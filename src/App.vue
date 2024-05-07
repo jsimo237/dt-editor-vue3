@@ -13,7 +13,7 @@
   })
 
 
-  const editorFirstName = new Editor({
+  const editor = new Editor({
       fields: [
           {
               label: 'Fist Name:',
@@ -24,7 +24,7 @@
   })
 
   const addFirstName = ()=> {
-    editorFirstName.create({
+    editor.create({
         title : "Add First Name"
     }) //
   }
