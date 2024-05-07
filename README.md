@@ -12,7 +12,7 @@ npm install
 ### Install Editor files
 
 ```sh
-node node_modules/datatables.net-editor/install.js <path-to-editor-zip-files>
+node node_modules/datatables.net-editor/install.js <path-to-editor2.0.5-zip-files>
 ```
 
 ### Compile and Hot-Reload for Development
